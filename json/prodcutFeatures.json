@@ -1,0 +1,279 @@
+{
+    "success": true,
+    "meta": {
+        "time": "2024-09-24T20:13:59Z",
+        "traceId": "36b543e9d98ec45b",
+        "requestId": "2mX2wZ0oAmZDmAymQk2M38n12g9",
+        "appVersion": "mgate:4586336"
+    },
+    "errors": [],
+    "productSelectors": [
+        {
+            "type": "IMAGE",
+            "name": "Цвет",
+            "valuesList": [
+                {
+                    "value": "Черный",
+                    "isAvailable": true,
+                    "isSelected": true,
+                    "item": {
+                        "title": "Смартфон POCO X6 5G 12/512Gb Black",
+                        "goodsId": "600015342663",
+                        "slug": "smartfon-poco-x6-5g-12-512gb-black-600015342663",
+                        "webUrl": "https://megamarket.ru/catalog/details/smartfon-poco-x6-5g-12-512gb-black-600015342663/",
+                        "image": "https://main-cdn.sbermegamarket.ru/mid2/hlr-system/-15/463/288/222/212/35/600015342663b0.jpg",
+                        "favoriteOffer": {
+                            "price": 35690,
+                            "merchantId": "47540",
+                            "oldPrice": 0,
+                            "oldPriceChangePercentage": 0,
+                            "crossedPrice": 0,
+                            "crossedPriceChangePercentage": 0
+                        },
+                        "imageItems": [
+                            {
+                                "type": "MAIN_IMAGE",
+                                "url": "https://main-cdn.sbermegamarket.ru/mid2/hlr-system/-15/463/288/222/212/35/600015342663b0.jpg"
+                            },
+                            {
+                                "type": "POPUP_IMAGE",
+                                "url": "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-15/463/288/222/212/35/600015342663b0.jpg"
+                            }
+                        ]
+                    },
+                    "color": [],
+                    "values": [
+                        "Черный"
+                    ],
+                    "flags": []
+                },
+                {
+                    "value": "Black",
+                    "isAvailable": false,
+                    "isSelected": false,
+                    "item": {
+                        "title": "Смартфон POCO X6 5G 12/512Gb Black (MZB0FS1RU)",
+                        "goodsId": "600015826806",
+                        "slug": "smartfon-poco-x6-5g-12-512gb-black-mzb0fs1ru-600015826806",
+                        "webUrl": "https://megamarket.ru/catalog/details/smartfon-poco-x6-5g-12-512gb-black-mzb0fs1ru-600015826806/",
+                        "image": "https://main-cdn.sbermegamarket.ru/mid2/hlr-system/-16/893/353/782/121/055/600015826806b0.jpeg",
+                        "favoriteOffer": null,
+                        "imageItems": [
+                            {
+                                "type": "MAIN_IMAGE",
+                                "url": "https://main-cdn.sbermegamarket.ru/mid2/hlr-system/-16/893/353/782/121/055/600015826806b0.jpeg"
+                            },
+                            {
+                                "type": "POPUP_IMAGE",
+                                "url": "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-16/893/353/782/121/055/600015826806b0.jpeg"
+                            }
+                        ]
+                    },
+                    "color": [],
+                    "values": [
+                        "Black"
+                    ],
+                    "flags": [
+                        "FLAG_AVAILABLE_FROM_ANOTHER_MERCHANT"
+                    ]
+                },
+                {
+                    "value": "Blue",
+                    "isAvailable": false,
+                    "isSelected": false,
+                    "item": {
+                        "title": "Смартфон POCO X6 5G 12/512Gb Blue (MZB0FR6RU)",
+                        "goodsId": "600015825631",
+                        "slug": "smartfon-poco-x6-5g-12-512gb-blue-mzb0fr6ru-600015825631",
+                        "webUrl": "https://megamarket.ru/catalog/details/smartfon-poco-x6-5g-12-512gb-blue-mzb0fr6ru-600015825631/",
+                        "image": "https://main-cdn.sbermegamarket.ru/mid2/hlr-system/-17/197/270/032/121/058/600015825631b0.jpeg",
+                        "favoriteOffer": null,
+                        "imageItems": [
+                            {
+                                "type": "MAIN_IMAGE",
+                                "url": "https://main-cdn.sbermegamarket.ru/mid2/hlr-system/-17/197/270/032/121/058/600015825631b0.jpeg"
+                            },
+                            {
+                                "type": "POPUP_IMAGE",
+                                "url": "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-17/197/270/032/121/058/600015825631b0.jpeg"
+                            }
+                        ]
+                    },
+                    "color": [],
+                    "values": [
+                        "Blue"
+                    ],
+                    "flags": [
+                        "FLAG_AVAILABLE_FROM_ANOTHER_MERCHANT"
+                    ]
+                },
+                {
+                    "value": "White",
+                    "isAvailable": false,
+                    "isSelected": false,
+                    "item": {
+                        "title": "Смартфон Poco X6 5G 8/256GB White Global",
+                        "goodsId": "600016529830",
+                        "slug": "smartfon-poco-x6-5g-8-256gb-white-global-600016529830",
+                        "webUrl": "https://megamarket.ru/catalog/details/smartfon-poco-x6-5g-8-256gb-white-global-600016529830/",
+                        "image": "https://main-cdn.sbermegamarket.ru/mid2/hlr-system/-18/500/172/763/192/012/600016529830b0.webp",
+                        "favoriteOffer": null,
+                        "imageItems": [
+                            {
+                                "type": "MAIN_IMAGE",
+                                "url": "https://main-cdn.sbermegamarket.ru/mid2/hlr-system/-18/500/172/763/192/012/600016529830b0.webp"
+                            },
+                            {
+                                "type": "POPUP_IMAGE",
+                                "url": "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-18/500/172/763/192/012/600016529830b0.webp"
+                            }
+                        ]
+                    },
+                    "color": [],
+                    "values": [
+                        "White"
+                    ],
+                    "flags": [
+                        "FLAG_AVAILABLE_FROM_ANOTHER_MERCHANT"
+                    ]
+                },
+                {
+                    "value": "black",
+                    "isAvailable": false,
+                    "isSelected": false,
+                    "item": {
+                        "title": "Смартфон Poco X6 5G 8/256GB black (290224-11)",
+                        "goodsId": "600016222611",
+                        "slug": "smartfon-poco-x6-5g-8-256gb-black-290224-11-600016222611",
+                        "webUrl": "https://megamarket.ru/catalog/details/smartfon-poco-x6-5g-8-256gb-black-290224-11-600016222611/",
+                        "image": "https://main-cdn.sbermegamarket.ru/mid2/hlr-system/-20/724/187/403/522/37/600016222611b0.png",
+                        "favoriteOffer": null,
+                        "imageItems": [
+                            {
+                                "type": "MAIN_IMAGE",
+                                "url": "https://main-cdn.sbermegamarket.ru/mid2/hlr-system/-20/724/187/403/522/37/600016222611b0.png"
+                            },
+                            {
+                                "type": "POPUP_IMAGE",
+                                "url": "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-20/724/187/403/522/37/600016222611b0.png"
+                            }
+                        ]
+                    },
+                    "color": [],
+                    "values": [
+                        "black"
+                    ],
+                    "flags": [
+                        "FLAG_AVAILABLE_FROM_ANOTHER_MERCHANT"
+                    ]
+                },
+                {
+                    "value": "Белый",
+                    "isAvailable": false,
+                    "isSelected": false,
+                    "item": {
+                        "title": "Смартфон POCO X6 5G 12/512Gb White",
+                        "goodsId": "600015342649",
+                        "slug": "smartfon-poco-x6-5g-12-512gb-white-600015342649",
+                        "webUrl": "https://megamarket.ru/catalog/details/smartfon-poco-x6-5g-12-512gb-white-600015342649/",
+                        "image": "https://main-cdn.sbermegamarket.ru/mid2/hlr-system/-15/468/669/812/219/59/600015342649b0.png",
+                        "favoriteOffer": null,
+                        "imageItems": [
+                            {
+                                "type": "MAIN_IMAGE",
+                                "url": "https://main-cdn.sbermegamarket.ru/mid2/hlr-system/-15/468/669/812/219/59/600015342649b0.png"
+                            },
+                            {
+                                "type": "POPUP_IMAGE",
+                                "url": "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-15/468/669/812/219/59/600015342649b0.png"
+                            }
+                        ]
+                    },
+                    "color": [],
+                    "values": [
+                        "Белый"
+                    ],
+                    "flags": [
+                        "FLAG_AVAILABLE_FROM_ANOTHER_MERCHANT"
+                    ]
+                },
+                {
+                    "value": "Синий",
+                    "isAvailable": false,
+                    "isSelected": false,
+                    "item": {
+                        "title": "Смартфон POCO X6 5G 12/512Gb Blue",
+                        "goodsId": "600015342601",
+                        "slug": "smartfon-poco-x6-5g-12-512gb-blue-600015342601",
+                        "webUrl": "https://megamarket.ru/catalog/details/smartfon-poco-x6-5g-12-512gb-blue-600015342601/",
+                        "image": "https://main-cdn.sbermegamarket.ru/mid2/hlr-system/-15/481/355/012/220/43/600015342601b0.png",
+                        "favoriteOffer": null,
+                        "imageItems": [
+                            {
+                                "type": "MAIN_IMAGE",
+                                "url": "https://main-cdn.sbermegamarket.ru/mid2/hlr-system/-15/481/355/012/220/43/600015342601b0.png"
+                            },
+                            {
+                                "type": "POPUP_IMAGE",
+                                "url": "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-15/481/355/012/220/43/600015342601b0.png"
+                            }
+                        ]
+                    },
+                    "color": [],
+                    "values": [
+                        "Синий"
+                    ],
+                    "flags": [
+                        "FLAG_AVAILABLE_FROM_ANOTHER_MERCHANT"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "VALUE",
+            "name": "Память",
+            "valuesList": [
+                {
+                    "value": "12 /512",
+                    "isAvailable": true,
+                    "isSelected": true,
+                    "item": {
+                        "title": "Смартфон POCO X6 5G 12/512Gb Black",
+                        "goodsId": "600015342663",
+                        "slug": "smartfon-poco-x6-5g-12-512gb-black-600015342663",
+                        "webUrl": "https://megamarket.ru/catalog/details/smartfon-poco-x6-5g-12-512gb-black-600015342663/",
+                        "image": "https://main-cdn.sbermegamarket.ru/mid2/hlr-system/-15/463/288/222/212/35/600015342663b0.jpg",
+                        "favoriteOffer": {
+                            "price": 35690,
+                            "merchantId": "47540",
+                            "oldPrice": 0,
+                            "oldPriceChangePercentage": 0,
+                            "crossedPrice": 0,
+                            "crossedPriceChangePercentage": 0
+                        },
+                        "imageItems": [
+                            {
+                                "type": "MAIN_IMAGE",
+                                "url": "https://main-cdn.sbermegamarket.ru/mid2/hlr-system/-15/463/288/222/212/35/600015342663b0.jpg"
+                            }
+                        ]
+                    },
+                    "color": [],
+                    "values": [
+                        "12 /512"
+                    ],
+                    "flags": []
+                }
+            ]
+        }
+    ],
+    "bpg1Info": {
+        "status": "UNKNOWN_STATUS",
+        "statusText": ""
+    },
+    "productSelectorParams": [],
+    "productDeputy": {
+        "deputyId": "",
+        "fractionId": "BFAF9F2396F734F29F046E51AE30D786"
+    }
+}

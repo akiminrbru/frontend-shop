@@ -1,0 +1,832 @@
+{
+    "success": true,
+    "meta": {
+        "time": "2024-09-24T20:13:59Z",
+        "traceId": "0be055dd8bb16098",
+        "requestId": "2mX2wgCQpWHwSypfbjAjIpt12VD",
+        "appVersion": "mgate:4586336"
+    },
+    "errors": [],
+    "goods": {
+        "goodsId": "600015342663",
+        "title": "Смартфон POCO X6 5G 12/512Gb Black",
+        "titleImage": "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-15/463/288/222/212/35/600015342663b0.jpg",
+        "attributes": [
+            {
+                "title": "Артикул производителя",
+                "slug": "",
+                "value": "51476",
+                "group": {
+                    "title": "Заводские данные о товаре",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 1,
+                "featureDescription": ""
+            },
+            {
+                "title": "Бренд",
+                "slug": "",
+                "value": "POCO",
+                "group": {
+                    "title": "Заводские данные о товаре",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 1,
+                "featureDescription": ""
+            },
+            {
+                "title": "Серия",
+                "slug": "",
+                "value": "X",
+                "group": {
+                    "title": "Заводские данные о товаре",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 1,
+                "featureDescription": ""
+            },
+            {
+                "title": "Модель",
+                "slug": "",
+                "value": "X6 5G",
+                "group": {
+                    "title": "Заводские данные о товаре",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 1,
+                "featureDescription": ""
+            },
+            {
+                "title": "Гарантия",
+                "slug": "",
+                "value": "Зависит от условий продавца",
+                "group": {
+                    "title": "Основные характеристики",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 5,
+                "featureDescription": "Смартфоны произведенные для других стран и не имеющие сертификацию РОСТЕСТ, имеют гарантию от продавца"
+            },
+            {
+                "title": "Версия",
+                "slug": "",
+                "value": "Российская версия",
+                "group": {
+                    "title": "Основные характеристики",
+                    "slug": ""
+                },
+                "isWebShort": true,
+                "isWebListing": false,
+                "sequence": 10,
+                "featureDescription": "Устройства для глобального рынка, то есть других стран, отличных от Китая, имеют приставку Европейской(EU) или Глобальной версиии(GL). Устройство для Китая зачастую будут отличаться стартовой прошивкой на китайском языке"
+            },
+            {
+                "title": "Операционная система",
+                "slug": "",
+                "value": "Android",
+                "group": {
+                    "title": "Основные характеристики",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 40,
+                "featureDescription": ""
+            },
+            {
+                "title": "Версия операционной системы",
+                "slug": "",
+                "value": "13",
+                "group": {
+                    "title": "Основные характеристики",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 50,
+                "featureDescription": ""
+            },
+            {
+                "title": "Год выхода модели",
+                "slug": "",
+                "value": "2024",
+                "group": {
+                    "title": "Основные характеристики",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 60,
+                "featureDescription": ""
+            },
+            {
+                "title": "Стандарт связи",
+                "slug": "",
+                "value": "3G; 4G; 4G(LTE); 5G",
+                "group": {
+                    "title": "Связь",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 70,
+                "featureDescription": ""
+            },
+            {
+                "title": "Тип SIM-карт",
+                "slug": "",
+                "value": "nano-sim",
+                "group": {
+                    "title": "Связь",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 80,
+                "featureDescription": ""
+            },
+            {
+                "title": "Количество физических SIM-карт",
+                "slug": "",
+                "value": "2",
+                "group": {
+                    "title": "Связь",
+                    "slug": ""
+                },
+                "isWebShort": true,
+                "isWebListing": true,
+                "sequence": 90,
+                "featureDescription": ""
+            },
+            {
+                "title": "Количество одновременно активных eSIM",
+                "slug": "",
+                "value": "0",
+                "group": {
+                    "title": "Связь",
+                    "slug": ""
+                },
+                "isWebShort": true,
+                "isWebListing": false,
+                "sequence": 95,
+                "featureDescription": "В современном модуле eSIM одновременно может храниться до 5 профилей с разными тарифами и от разных операторов. При этом активных профилей единовременно может быть до 2х"
+            },
+            {
+                "title": "Модель процессора",
+                "slug": "",
+                "value": "Qualcomm Snapdragon 7s Gen 2",
+                "group": {
+                    "title": "Процессор и память",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 100,
+                "featureDescription": ""
+            },
+            {
+                "title": "Количество ядер процессора",
+                "slug": "",
+                "value": "8",
+                "group": {
+                    "title": "Процессор и память",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 120,
+                "featureDescription": ""
+            },
+            {
+                "title": "Графический процессор",
+                "slug": "",
+                "value": "Qualcomm Adreno 710",
+                "group": {
+                    "title": "Процессор и память",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 130,
+                "featureDescription": ""
+            },
+            {
+                "title": "Встроенная память, в Гб",
+                "slug": "",
+                "value": "512",
+                "group": {
+                    "title": "Процессор и память",
+                    "slug": ""
+                },
+                "isWebShort": true,
+                "isWebListing": true,
+                "sequence": 140,
+                "featureDescription": ""
+            },
+            {
+                "title": "Оперативная память, в Гб",
+                "slug": "",
+                "value": "12",
+                "group": {
+                    "title": "Процессор и память",
+                    "slug": ""
+                },
+                "isWebShort": true,
+                "isWebListing": true,
+                "sequence": 150,
+                "featureDescription": ""
+            },
+            {
+                "title": "Поддержка карт памяти",
+                "slug": "",
+                "value": "Micro SD",
+                "group": {
+                    "title": "Процессор и память",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 160,
+                "featureDescription": ""
+            },
+            {
+                "title": "Диагональ экрана, в дюймах",
+                "slug": "",
+                "value": "6.67",
+                "group": {
+                    "title": "Дисплей",
+                    "slug": ""
+                },
+                "isWebShort": true,
+                "isWebListing": true,
+                "sequence": 190,
+                "featureDescription": ""
+            },
+            {
+                "title": "Разрешение экрана, в пикселях",
+                "slug": "",
+                "value": "2712x1220",
+                "group": {
+                    "title": "Дисплей",
+                    "slug": ""
+                },
+                "isWebShort": true,
+                "isWebListing": false,
+                "sequence": 200,
+                "featureDescription": ""
+            },
+            {
+                "title": "Формат экрана",
+                "slug": "",
+                "value": "20:9",
+                "group": {
+                    "title": "Дисплей",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 210,
+                "featureDescription": ""
+            },
+            {
+                "title": "Тип дисплея",
+                "slug": "",
+                "value": "AMOLED",
+                "group": {
+                    "title": "Дисплей",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 220,
+                "featureDescription": ""
+            },
+            {
+                "title": "Частота обновления дисплея, в Гц",
+                "slug": "",
+                "value": "120",
+                "group": {
+                    "title": "Дисплей",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 230,
+                "featureDescription": ""
+            },
+            {
+                "title": "Защита дисплея",
+                "slug": "",
+                "value": "Gorilla Glass Victus",
+                "group": {
+                    "title": "Дисплей",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 240,
+                "featureDescription": ""
+            },
+            {
+                "title": "Количество основных камер",
+                "slug": "",
+                "value": "три",
+                "group": {
+                    "title": "Камера",
+                    "slug": ""
+                },
+                "isWebShort": true,
+                "isWebListing": false,
+                "sequence": 270,
+                "featureDescription": ""
+            },
+            {
+                "title": "Фронтальная камера",
+                "slug": "",
+                "value": "Да",
+                "group": {
+                    "title": "Камера",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 280,
+                "featureDescription": ""
+            },
+            {
+                "title": "Разрешение основной камеры, в мегапикселях",
+                "slug": "",
+                "value": "64+8+2",
+                "group": {
+                    "title": "Камера",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 290,
+                "featureDescription": ""
+            },
+            {
+                "title": "Разрешение фронтальной камеры, в мегапикселях",
+                "slug": "",
+                "value": "16",
+                "group": {
+                    "title": "Камера",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 300,
+                "featureDescription": ""
+            },
+            {
+                "title": "Выдвижная камера",
+                "slug": "",
+                "value": "Нет",
+                "group": {
+                    "title": "Камера",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 310,
+                "featureDescription": ""
+            },
+            {
+                "title": "Стабилизатор изображения",
+                "slug": "",
+                "value": "оптический",
+                "group": {
+                    "title": "Камера",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 320,
+                "featureDescription": ""
+            },
+            {
+                "title": "Поддержка беспроводных технологий",
+                "slug": "",
+                "value": "Bluetooth; NFC; Wi-Fi",
+                "group": {
+                    "title": "Функции и возможности",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 340,
+                "featureDescription": ""
+            },
+            {
+                "title": "Стандарт Wi-Fi",
+                "slug": "",
+                "value": "802.11 a/b/g/n/ac",
+                "group": {
+                    "title": "Функции и возможности",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 350,
+                "featureDescription": ""
+            },
+            {
+                "title": "Версия Bluetooth",
+                "slug": "",
+                "value": "5.2",
+                "group": {
+                    "title": "Функции и возможности",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 360,
+                "featureDescription": ""
+            },
+            {
+                "title": "Биометрическая защита",
+                "slug": "",
+                "value": "распознавание лица; сканер отпечатка пальца",
+                "group": {
+                    "title": "Функции и возможности",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 380,
+                "featureDescription": ""
+            },
+            {
+                "title": "Расположение сканера отпечатка пальца",
+                "slug": "",
+                "value": "на экране",
+                "group": {
+                    "title": "Функции и возможности",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 390,
+                "featureDescription": ""
+            },
+            {
+                "title": "Навигация",
+                "slug": "",
+                "value": "A-GPS; BeiDou; GPS; Galileo; Глонасс",
+                "group": {
+                    "title": "Функции и возможности",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 400,
+                "featureDescription": ""
+            },
+            {
+                "title": "Датчики",
+                "slug": "",
+                "value": "Акселерометр; гироскоп; датчик освещения; датчик приближения",
+                "group": {
+                    "title": "Функции и возможности",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 420,
+                "featureDescription": ""
+            },
+            {
+                "title": "Дополнительные функции",
+                "slug": "",
+                "value": "ик-порт; фонарик",
+                "group": {
+                    "title": "Функции и возможности",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 430,
+                "featureDescription": ""
+            },
+            {
+                "title": "Емкость аккумулятора, в мА-ч",
+                "slug": "",
+                "value": "5100",
+                "group": {
+                    "title": "Питание",
+                    "slug": ""
+                },
+                "isWebShort": true,
+                "isWebListing": false,
+                "sequence": 440,
+                "featureDescription": ""
+            },
+            {
+                "title": "Тип разъема зарядки",
+                "slug": "",
+                "value": "usb type-c",
+                "group": {
+                    "title": "Питание",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 450,
+                "featureDescription": ""
+            },
+            {
+                "title": "Поддержка быстрой зарядки",
+                "slug": "",
+                "value": "Да",
+                "group": {
+                    "title": "Питание",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 460,
+                "featureDescription": ""
+            },
+            {
+                "title": "Стандарт быстрой зарядки",
+                "slug": "",
+                "value": "67w",
+                "group": {
+                    "title": "Питание",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 470,
+                "featureDescription": ""
+            },
+            {
+                "title": "Разъем для подключения гарнитуры",
+                "slug": "",
+                "value": "jack 3,5",
+                "group": {
+                    "title": "Питание",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 480,
+                "featureDescription": ""
+            },
+            {
+                "title": "Съемный аккумулятор",
+                "slug": "",
+                "value": "Нет",
+                "group": {
+                    "title": "Питание",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 520,
+                "featureDescription": ""
+            },
+            {
+                "title": "Тип аккумулятора",
+                "slug": "",
+                "value": "li-ion",
+                "group": {
+                    "title": "Питание",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 530,
+                "featureDescription": ""
+            },
+            {
+                "title": "Защита от пыли и влаги",
+                "slug": "",
+                "value": "Да",
+                "group": {
+                    "title": "Конструкция",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 540,
+                "featureDescription": ""
+            },
+            {
+                "title": "Класс защиты",
+                "slug": "",
+                "value": "IP54",
+                "group": {
+                    "title": "Конструкция",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 550,
+                "featureDescription": ""
+            },
+            {
+                "title": "Материал корпуса",
+                "slug": "",
+                "value": "пластик",
+                "group": {
+                    "title": "Конструкция",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 570,
+                "featureDescription": ""
+            },
+            {
+                "title": "Цвет корпуса",
+                "slug": "",
+                "value": "черный",
+                "group": {
+                    "title": "Конструкция",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 580,
+                "featureDescription": ""
+            },
+            {
+                "title": "Маркетинговый цвет",
+                "slug": "",
+                "value": "Черный",
+                "group": {
+                    "title": "Конструкция",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 590,
+                "featureDescription": ""
+            },
+            {
+                "title": "Комплект поставки",
+                "slug": "",
+                "value": "Гарантийный талон; Защитная пленка; Инструкция; Кабель Type-C; Ключ-скрепка",
+                "group": {
+                    "title": "Комплектация",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 600,
+                "featureDescription": ""
+            },
+            {
+                "title": "Высота, в сантиметрах",
+                "slug": "",
+                "value": "16.1",
+                "group": {
+                    "title": "Размеры и вес",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 610,
+                "featureDescription": ""
+            },
+            {
+                "title": "Ширина, в сантиметрах",
+                "slug": "",
+                "value": "7.4",
+                "group": {
+                    "title": "Размеры и вес",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 620,
+                "featureDescription": ""
+            },
+            {
+                "title": "Толщина, в сантиметрах",
+                "slug": "",
+                "value": "0.8",
+                "group": {
+                    "title": "Размеры и вес",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 630,
+                "featureDescription": ""
+            },
+            {
+                "title": "Вес, в граммах",
+                "slug": "",
+                "value": "181",
+                "group": {
+                    "title": "Размеры и вес",
+                    "slug": ""
+                },
+                "isWebShort": false,
+                "isWebListing": false,
+                "sequence": 640,
+                "featureDescription": ""
+            },
+            {
+                "title": "Код товара",
+                "slug": "",
+                "value": "600015342663",
+                "group": {
+                    "title": "Заводские данные о товаре",
+                    "slug": ""
+                },
+                "isWebShort": true,
+                "isWebListing": false,
+                "sequence": 1,
+                "featureDescription": ""
+            }
+        ],
+        "webUrl": "https://megamarket.ru/catalog/details/smartfon-poco-x6-5g-12-512gb-black-600015342663/",
+        "slug": "smartfon-poco-x6-5g-12-512gb-black-600015342663",
+        "boxes": [
+            {
+                "box": "1",
+                "packagingUnit": "см",
+                "width": 9.2,
+                "height": 18.7,
+                "length": 6,
+                "weightUnit": "кг",
+                "weight": 0.56
+            }
+        ],
+        "categoryId": "10101",
+        "brand": "POCO",
+        "contentFlags": [],
+        "contentFlagsStr": [],
+        "stocks": 0,
+        "photosCount": 11,
+        "offersCount": 1,
+        "logisticTags": [
+            "ANYPVZ",
+            "ANYPVZ20",
+            "BORSCH15",
+            "DSM",
+            "FF",
+            "MGT",
+            "MGT20",
+            "REGFULL30",
+            "SAMOKAT",
+            "SBLM135",
+            "SBLM150",
+            "SBLM30",
+            "SBLMMGT_13X",
+            "SBLMMGT_AVIA",
+            "SHIP25_20"
+        ],
+        "images": [
+            "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-15/463/288/222/212/35/600015342663b0.jpg",
+            "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-15/463/288/122/212/35/600015342663b1.jpg",
+            "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-15/463/288/022/212/35/600015342663b2.jpg",
+            "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-15/463/287/922/212/35/600015342663b3.jpg",
+            "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-15/463/287/822/212/35/600015342663b4.jpg",
+            "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-15/463/287/722/212/35/600015342663b5.jpg",
+            "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-15/463/287/622/212/35/600015342663b6.jpg",
+            "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-15/463/287/522/212/35/600015342663b7.jpg",
+            "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-15/463/287/422/212/35/600015342663b8.jpg",
+            "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-15/463/287/322/212/35/600015342663b9.jpg",
+            "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-49/865/196/722/212/35/600015342663b10.jpg"
+        ],
+        "documents": [],
+        "description": "\u003cp\u003eСмартфон POCO X6 5G 12GB+512GB Black.\u003cbr\u003e\u003c/p\u003e\u003cp\u003eКлючевые преимущества:\u003c/p\u003e\u003cp\u003eПроцессор Snapdragon 7s Gen 2 CrystalRes \u003cbr\u003e120 Гц Flow AMOLED-дисплей \u003cbr\u003e64 Мп, оптическая стабилизация \u003cbr\u003e67 Вт, турбозарядка 5100 мАч (тип.) аккумулятор,\u003cbr\u003eа также: стекло Corning Gorilla Glass Victus спереди, сертификация Hi-Res Audio, защита IP54, подэкранный сканер отпечатка пальца, ИК-порт, Type-C и многое другое!\u003c/p\u003e",
+        "videos": [],
+        "mainCollectionId": "6610100",
+        "package": {
+            "packageType": "UNKNOWN_TYPE",
+            "minQuantity": "0",
+            "weightUnit": "KILOGRAM_WEIGHT_UNIT"
+        }
+    },
+    "goodsIdAlt": "",
+    "badges": [],
+    "view": "DEFAULT_VIEW",
+    "customVariables": [
+        {
+            "name": "PRODUCT_RETURN_URL",
+            "value": "",
+            "displayName": "https://megamarket.ru/help/article/171510701/"
+        }
+    ],
+    "hasSpecPage": true,
+    "attributesLimit": 20,
+    "similarCollectionSlug": "smartfony",
+    "vendor": null,
+    "manuals": []
+}

@@ -1,0 +1,542 @@
+{
+    "success": true,
+    "meta": {
+        "time": "2024-09-24T20:13:59Z",
+        "traceId": "605ba8d5f16d26c1",
+        "requestId": "2mX2wcnzADzboGH49RPvX21TU1U",
+        "appVersion": "mgate:4586336"
+    },
+    "errors": [],
+    "mainReviews": [
+        {
+            "id": "df953652-f559-4c60-8ab4-7feec7ccd55a",
+            "isFavorite": false,
+            "isUnique": true,
+            "body": "Поменял Poco M3 pro на эту модель. Пленка уже наклеена на экран. На первое время хватит. Чехол посредственный. Огромное окно под камеры, у моделей попроще и то чехлы качественнее. Так что чехол лучше сразу другой заказывать. В остальном отличная модель. Быстрая. Надеюсь прослужит долго. Перенос приложений и почти всех данных сделал при помощи Mishare. Своих денег стоит.",
+            "pros": "Отличный дизайн, камера, производительность.",
+            "cons": "Камеры торчат сильно, а чехол из комплекта слишком топорный",
+            "createdAtDate": "2024-05-23T10:06:58Z",
+            "authorName": "Анонимный покупатель",
+            "authorEmail": "",
+            "likeCount": 1,
+            "dislikeCount": 0,
+            "helpfulness": 0,
+            "rating": 5,
+            "photos": [],
+            "ratingAttributes": [
+                {
+                    "name": "Функциональность",
+                    "value": 1,
+                    "id": ""
+                },
+                {
+                    "name": "Надежность",
+                    "value": 1,
+                    "id": ""
+                }
+            ],
+            "isMain": true,
+            "avatarLink": "https://main-cdn.sbermegamarket.ru/avatars/mobile/АП.png",
+            "goods": {
+                "goodsId": "600016222611",
+                "title": "",
+                "titleImage": "",
+                "attributes": [],
+                "webUrl": "",
+                "slug": "",
+                "boxes": [],
+                "categoryId": "",
+                "brand": "",
+                "contentFlags": [],
+                "contentFlagsStr": [],
+                "stocks": 0,
+                "photosCount": 0,
+                "offersCount": 0,
+                "logisticTags": [],
+                "images": [],
+                "documents": [],
+                "description": "",
+                "videos": [],
+                "mainCollectionId": "",
+                "package": null
+            },
+            "customerVote": {
+                "vote": "UNKNOWN"
+            },
+            "comments": [],
+            "video": [],
+            "goodsFeatures": {
+                "goodsId": "600016222611",
+                "contentFlags": [],
+                "contentFlagsStr": [],
+                "images": [
+                    "/hlr-system/-20/724/187/403/522/37/600016222611b0.png"
+                ],
+                "title": "Смартфон Poco X6 5G 8/256GB black (290224-11)",
+                "titleImage": "/hlr-system/-20/724/187/403/522/37/600016222611b0.png",
+                "videos": [],
+                "webUrl": "https://megamarket.ru/catalog/details/smartfon-poco-x6-5g-8-256gb-black-290224-11-600016222611/",
+                "slug": "smartfon-poco-x6-5g-8-256gb-black-290224-11-600016222611",
+                "rating": 5,
+                "reviewCount": "19",
+                "selectors": [
+                    {
+                        "name": "Цвет",
+                        "value": "black"
+                    },
+                    {
+                        "name": "Память",
+                        "value": "8 /256"
+                    }
+                ]
+            },
+            "merchant": {
+                "id": "86454",
+                "name": "Техновичков"
+            }
+        },
+        {
+            "id": "69fd9a10-779c-4c5d-9e89-0a7d042a7609",
+            "isFavorite": false,
+            "isUnique": true,
+            "body": "Телефон отличный, яркий,красивый, очень шустрый,  батарею держит два дня среднего пользования, если только звонки думаю и на три хватит. Хорошая яркая и четкая камера. Цена дешевле чем везде плюс вернули бонусами еще, очень  довольна подарком. Единственное не очень нравится выпирающая сзади камера, но это уже особенность модели и совсем не критично, привыкаешь быстро. Однозначно рекомендую.",
+            "pros": "",
+            "cons": "немного громоздкий для девушки",
+            "createdAtDate": "2024-07-05T07:52:24Z",
+            "authorName": "Елена П.",
+            "authorEmail": "",
+            "likeCount": 0,
+            "dislikeCount": 0,
+            "helpfulness": 0,
+            "rating": 5,
+            "photos": [],
+            "ratingAttributes": [
+                {
+                    "name": "Функциональность",
+                    "value": 5,
+                    "id": ""
+                },
+                {
+                    "name": "Надежность",
+                    "value": 5,
+                    "id": ""
+                }
+            ],
+            "isMain": true,
+            "avatarLink": "https://main-cdn.sbermegamarket.ru/avatars/mobile/ЕП.png",
+            "goods": {
+                "goodsId": "600016222611",
+                "title": "",
+                "titleImage": "",
+                "attributes": [],
+                "webUrl": "",
+                "slug": "",
+                "boxes": [],
+                "categoryId": "",
+                "brand": "",
+                "contentFlags": [],
+                "contentFlagsStr": [],
+                "stocks": 0,
+                "photosCount": 0,
+                "offersCount": 0,
+                "logisticTags": [],
+                "images": [],
+                "documents": [],
+                "description": "",
+                "videos": [],
+                "mainCollectionId": "",
+                "package": null
+            },
+            "customerVote": {
+                "vote": "UNKNOWN"
+            },
+            "comments": [],
+            "video": [],
+            "goodsFeatures": {
+                "goodsId": "600016222611",
+                "contentFlags": [],
+                "contentFlagsStr": [],
+                "images": [
+                    "/hlr-system/-20/724/187/403/522/37/600016222611b0.png"
+                ],
+                "title": "Смартфон Poco X6 5G 8/256GB black (290224-11)",
+                "titleImage": "/hlr-system/-20/724/187/403/522/37/600016222611b0.png",
+                "videos": [],
+                "webUrl": "https://megamarket.ru/catalog/details/smartfon-poco-x6-5g-8-256gb-black-290224-11-600016222611/",
+                "slug": "smartfon-poco-x6-5g-8-256gb-black-290224-11-600016222611",
+                "rating": 5,
+                "reviewCount": "19",
+                "selectors": [
+                    {
+                        "name": "Цвет",
+                        "value": "black"
+                    },
+                    {
+                        "name": "Память",
+                        "value": "8 /256"
+                    }
+                ]
+            },
+            "merchant": {
+                "id": "66904",
+                "name": "\"Xiaomi - RoMi31\" - Магазин Электроники Xiaomi и не только!"
+            }
+        },
+        {
+            "id": "1893c734-5a7e-45fa-a126-a8c0eb8ba605",
+            "isFavorite": false,
+            "isUnique": true,
+            "body": "Хорошо лежит в руке. Удобные борты. Хороший качаственный соотношение цена/качество. Соотвествует своим характеристикам с Андрюшей 14 на борту. Смартфон среднего уровня. если хотите по мощней будет дороже. Вполне хватает если, не гонять системогрузящие игры. Выбирал по цене и характеристикам. они полнолностью соотвествуют, цене с купонами в и бонусами в 2е приятней.",
+            "pros": "Зарекомендовавший себя бренд. Чехол в комплекте",
+            "cons": "Пока не выявлено",
+            "createdAtDate": "2024-04-24T20:33:57Z",
+            "authorName": "Анонимный покупатель",
+            "authorEmail": "",
+            "likeCount": 0,
+            "dislikeCount": 0,
+            "helpfulness": 0,
+            "rating": 5,
+            "photos": [],
+            "ratingAttributes": [
+                {
+                    "name": "Функциональность",
+                    "value": 5,
+                    "id": ""
+                },
+                {
+                    "name": "Надежность",
+                    "value": 5,
+                    "id": ""
+                }
+            ],
+            "isMain": true,
+            "avatarLink": "https://main-cdn.sbermegamarket.ru/avatars/mobile/АП.png",
+            "goods": {
+                "goodsId": "600016222611",
+                "title": "",
+                "titleImage": "",
+                "attributes": [],
+                "webUrl": "",
+                "slug": "",
+                "boxes": [],
+                "categoryId": "",
+                "brand": "",
+                "contentFlags": [],
+                "contentFlagsStr": [],
+                "stocks": 0,
+                "photosCount": 0,
+                "offersCount": 0,
+                "logisticTags": [],
+                "images": [],
+                "documents": [],
+                "description": "",
+                "videos": [],
+                "mainCollectionId": "",
+                "package": null
+            },
+            "customerVote": {
+                "vote": "UNKNOWN"
+            },
+            "comments": [],
+            "video": [],
+            "goodsFeatures": {
+                "goodsId": "600016222611",
+                "contentFlags": [],
+                "contentFlagsStr": [],
+                "images": [
+                    "/hlr-system/-20/724/187/403/522/37/600016222611b0.png"
+                ],
+                "title": "Смартфон Poco X6 5G 8/256GB black (290224-11)",
+                "titleImage": "/hlr-system/-20/724/187/403/522/37/600016222611b0.png",
+                "videos": [],
+                "webUrl": "https://megamarket.ru/catalog/details/smartfon-poco-x6-5g-8-256gb-black-290224-11-600016222611/",
+                "slug": "smartfon-poco-x6-5g-8-256gb-black-290224-11-600016222611",
+                "rating": 5,
+                "reviewCount": "19",
+                "selectors": [
+                    {
+                        "name": "Цвет",
+                        "value": "black"
+                    },
+                    {
+                        "name": "Память",
+                        "value": "8 /256"
+                    }
+                ]
+            },
+            "merchant": {
+                "id": "61920",
+                "name": "Sold-Out (СПБ)"
+            }
+        },
+        {
+            "id": "0da06a28-3dcd-47b9-8016-9164554fc756",
+            "isFavorite": false,
+            "isUnique": true,
+            "body": "Отличный смартфон с перспективой на пару лет использования.",
+            "pros": "Отличное соотношение цены и характеристик. Качество на высоте. Камера делает чёткие снимки, видео отлично снимает. ",
+            "cons": "Нет.",
+            "createdAtDate": "2024-05-19T09:08:52Z",
+            "authorName": "Юлия Л.",
+            "authorEmail": "",
+            "likeCount": 0,
+            "dislikeCount": 0,
+            "helpfulness": 0,
+            "rating": 5,
+            "photos": [
+                "https://main-cdn.sbermegamarket.ru/upload/IMG_20240519_120541.jpg_6649c195121cf.jpg",
+                "https://main-cdn.sbermegamarket.ru/upload/IMG_20240519_120547.jpg_6649c19578ea5.jpg"
+            ],
+            "ratingAttributes": [
+                {
+                    "name": "Надежность",
+                    "value": 5,
+                    "id": ""
+                },
+                {
+                    "name": "Функциональность",
+                    "value": 5,
+                    "id": ""
+                }
+            ],
+            "isMain": true,
+            "avatarLink": "https://main-cdn.sbermegamarket.ru/avatars/mobile/ЮЛ.png",
+            "goods": {
+                "goodsId": "600016222611",
+                "title": "",
+                "titleImage": "",
+                "attributes": [],
+                "webUrl": "",
+                "slug": "",
+                "boxes": [],
+                "categoryId": "",
+                "brand": "",
+                "contentFlags": [],
+                "contentFlagsStr": [],
+                "stocks": 0,
+                "photosCount": 0,
+                "offersCount": 0,
+                "logisticTags": [],
+                "images": [],
+                "documents": [],
+                "description": "",
+                "videos": [],
+                "mainCollectionId": "",
+                "package": null
+            },
+            "customerVote": {
+                "vote": "UNKNOWN"
+            },
+            "comments": [],
+            "video": [],
+            "goodsFeatures": {
+                "goodsId": "600016222611",
+                "contentFlags": [],
+                "contentFlagsStr": [],
+                "images": [
+                    "/hlr-system/-20/724/187/403/522/37/600016222611b0.png"
+                ],
+                "title": "Смартфон Poco X6 5G 8/256GB black (290224-11)",
+                "titleImage": "/hlr-system/-20/724/187/403/522/37/600016222611b0.png",
+                "videos": [],
+                "webUrl": "https://megamarket.ru/catalog/details/smartfon-poco-x6-5g-8-256gb-black-290224-11-600016222611/",
+                "slug": "smartfon-poco-x6-5g-8-256gb-black-290224-11-600016222611",
+                "rating": 5,
+                "reviewCount": "19",
+                "selectors": [
+                    {
+                        "name": "Цвет",
+                        "value": "black"
+                    },
+                    {
+                        "name": "Память",
+                        "value": "8 /256"
+                    }
+                ]
+            },
+            "merchant": {
+                "id": "66861",
+                "name": "СотТех"
+            }
+        },
+        {
+            "id": "1128bf1c-963f-4498-bda4-71e52b3f71fc",
+            "isFavorite": false,
+            "isUnique": true,
+            "body": "Пятёрочка за то что я знал и понимал что покупаю, телефон полностью оправдал мои ожидания. Цена была 27~ применил промокод на скидку в 5к. докинул бонусов Спасибо - вышла вкусная цена в 20~ за данный ценник альтернативы не было по интересующим меня характеристикам. Поэтому я полностью доволен. Отсутствует слот для флешки - недостатком не считаю, но имейте ввиду если вдруг кому это важно. Плюсы и минусы уже указал, повторяться не буду, только добавлю что сверхвысокое качество снимков для меня не так важно, так что и это не считаю минусом в данном ценовом диапазоне. Отзыв пишу с Этого телефона потому сделать фото его не могу, только коробочка) Всем удачных покупок!",
+            "pros": "яркий дисплей; стабильная и быстрая работа; чехол в комплекте; пленка наклеена на экран; аккумулятор большой ёмкости и быстрая зарядка, 256 г/байт встроенной памяти, 8 оперативной; обновился до hyper OS; NFC работает отлично",
+            "cons": "не удобное расположение сканера отпечатков пальца - внизу экрана; гигантские объективы у камеры; низкое разрешение камер; неудобный чехол из-за огромного окна под камеры",
+            "createdAtDate": "2024-05-12T14:43:15Z",
+            "authorName": "Андрей П.",
+            "authorEmail": "",
+            "likeCount": 2,
+            "dislikeCount": 0,
+            "helpfulness": 0,
+            "rating": 5,
+            "photos": [
+                "https://main-cdn.sbermegamarket.ru/upload/JPEG_20240512_194037_7760770961069369665.jpg_6640d572624be.jpg",
+                "https://main-cdn.sbermegamarket.ru/upload/JPEG_20240512_193947_4753797014404689097.jpg_6640d5726bc79.jpg"
+            ],
+            "ratingAttributes": [
+                {
+                    "name": "Надежность",
+                    "value": 5,
+                    "id": ""
+                },
+                {
+                    "name": "Функциональность",
+                    "value": 5,
+                    "id": ""
+                },
+                {
+                    "name": "Надежность",
+                    "value": 5,
+                    "id": ""
+                },
+                {
+                    "name": "Функциональность",
+                    "value": 5,
+                    "id": ""
+                },
+                {
+                    "name": "Надежность",
+                    "value": 5,
+                    "id": ""
+                },
+                {
+                    "name": "Функциональность",
+                    "value": 5,
+                    "id": ""
+                },
+                {
+                    "name": "Надежность",
+                    "value": 5,
+                    "id": ""
+                },
+                {
+                    "name": "Функциональность",
+                    "value": 5,
+                    "id": ""
+                },
+                {
+                    "name": "Надежность",
+                    "value": 5,
+                    "id": ""
+                },
+                {
+                    "name": "Функциональность",
+                    "value": 5,
+                    "id": ""
+                },
+                {
+                    "name": "Надежность",
+                    "value": 5,
+                    "id": ""
+                },
+                {
+                    "name": "Функциональность",
+                    "value": 5,
+                    "id": ""
+                }
+            ],
+            "isMain": true,
+            "avatarLink": "https://main-cdn.sbermegamarket.ru/avatars/mobile/АП.png",
+            "goods": {
+                "goodsId": "600016222611",
+                "title": "",
+                "titleImage": "",
+                "attributes": [],
+                "webUrl": "",
+                "slug": "",
+                "boxes": [],
+                "categoryId": "",
+                "brand": "",
+                "contentFlags": [],
+                "contentFlagsStr": [],
+                "stocks": 0,
+                "photosCount": 0,
+                "offersCount": 0,
+                "logisticTags": [],
+                "images": [],
+                "documents": [],
+                "description": "",
+                "videos": [],
+                "mainCollectionId": "",
+                "package": null
+            },
+            "customerVote": {
+                "vote": "UNKNOWN"
+            },
+            "comments": [],
+            "video": [],
+            "goodsFeatures": {
+                "goodsId": "600016222611",
+                "contentFlags": [],
+                "contentFlagsStr": [],
+                "images": [
+                    "/hlr-system/-20/724/187/403/522/37/600016222611b0.png"
+                ],
+                "title": "Смартфон Poco X6 5G 8/256GB black (290224-11)",
+                "titleImage": "/hlr-system/-20/724/187/403/522/37/600016222611b0.png",
+                "videos": [],
+                "webUrl": "https://megamarket.ru/catalog/details/smartfon-poco-x6-5g-8-256gb-black-290224-11-600016222611/",
+                "slug": "smartfon-poco-x6-5g-8-256gb-black-290224-11-600016222611",
+                "rating": 5,
+                "reviewCount": "19",
+                "selectors": [
+                    {
+                        "name": "Цвет",
+                        "value": "black"
+                    },
+                    {
+                        "name": "Память",
+                        "value": "8 /256"
+                    }
+                ]
+            },
+            "merchant": {
+                "id": "66861",
+                "name": "СотТех"
+            }
+        }
+    ],
+    "rating": 4.94,
+    "reviewsCount": "512",
+    "ratingAttributes": [
+        {
+            "name": "Функциональность",
+            "value": 4.94,
+            "id": ""
+        },
+        {
+            "name": "Надежность",
+            "value": 4.94,
+            "id": ""
+        }
+    ],
+    "reviewStats": [
+        {
+            "rating": 5,
+            "count": 489,
+            "percent": 95.51
+        },
+        {
+            "rating": 4,
+            "count": 19,
+            "percent": 3.71
+        },
+        {
+            "rating": 2,
+            "count": 1,
+            "percent": 0.2
+        },
+        {
+            "rating": 1,
+            "count": 3,
+            "percent": 0.59
+        }
+    ],
+    "totalMediaGalleryItems": "0",
+    "previewMediaGalleryItems": [],
+    "questionCount": "69"
+}
