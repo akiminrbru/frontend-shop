@@ -12,7 +12,7 @@ export default function Page() {
 	const pathname = usePathname();
 	const id = pathname.split("-").at(-1);
 
-	const { data, error, isLoading } = useSWR<IProduct>(`/api/products/byId?id=${id}`, fetcher);
+	const { data, error, isLoading } = useSWR<IProduct>(`/catalog/getProductById/${id}`, fetcher);
 
 	if (isLoading) {
 		<div className="mt-10">Загрузка...</div>;
@@ -23,8 +23,6 @@ export default function Page() {
 	}
 
 	const reviews = data?.reviews;
-
-	console.log("Карточка товара", data);
 
 	return (
 		<div className="mt-10 mb-10">

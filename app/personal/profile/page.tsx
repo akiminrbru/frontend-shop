@@ -2,15 +2,17 @@
 
 import { Container } from "@/shared/components";
 import { Button } from "@/shared/components/ui";
-import { signOut } from "next-auth/react";
+import { useAuth } from "@/shared/hooks";
 
 export default function Profile() {
+	const { logout } = useAuth();
+
 	return (
 		<div className="mt-10">
 			<Container>
 				<div className="flex justify-between">
 					<h2 className="text-2xl">Профиль</h2>
-					<Button onClick={() => signOut({ callbackUrl: "/" })}>Выйти</Button>
+					<Button onClick={() => logout()}>Выйти</Button>
 				</div>
 			</Container>
 		</div>

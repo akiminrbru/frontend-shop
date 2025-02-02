@@ -15,7 +15,7 @@ export const Search = () => {
 	const debouncedInputValue = useDebounce(searchValue);
 
 	const { data, error, isLoading } = useSWR<IProduct[]>(
-		debouncedInputValue ? `/api/products/search?search=${searchValue}` : null,
+		debouncedInputValue ? `/catalog/searchProducts?search=${searchValue}` : null,
 		fetcher
 	);
 

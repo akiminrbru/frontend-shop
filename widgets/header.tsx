@@ -1,5 +1,5 @@
 import { Menu, Search } from "@/entities";
-import { ButtonSignIn } from "@/featured";
+import { ButtonSignIn } from "@/features";
 import { Container } from "@/shared/components";
 import { Heart, ShoppingCart } from "lucide-react";
 import Link from "next/link";

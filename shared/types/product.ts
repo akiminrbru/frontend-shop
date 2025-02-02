@@ -1,7 +1,16 @@
-import { Brand, Category, Product, Review } from "@prisma/client";
+import { ICategory } from "./category";
+import { IBrand } from "./brand";
+import { IReview } from "./review";
 
-export interface IProduct extends Product {
-	category: Category;
-	brand: Brand;
-	reviews: Review[];
+export interface IProduct {
+	id: number;
+	title: string;
+	slug: string;
+	previewImage: string;
+	price: number;
+	brandId: number;
+	categoryId: number;
+	category: ICategory;
+	brand: IBrand;
+	reviews: IReview[];
 }

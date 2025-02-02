@@ -1,14 +1,14 @@
 "use client";
 
-import React from "react";
-import { Toaster } from "react-hot-toast";
+import React, { useEffect } from "react";
+import toast, { Toaster } from "react-hot-toast";
 import NextTopLoader from "nextjs-toploader";
-import { SessionProvider } from "next-auth/react";
+import { useSearchParams } from "next/navigation";
 
 export const Providers: React.FC<React.PropsWithChildren> = ({ children }) => {
 	return (
 		<>
-			<SessionProvider>{children}</SessionProvider>
+			{children}
 			<Toaster />
 			<NextTopLoader />
 		</>

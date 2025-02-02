@@ -1,12 +1,12 @@
-import { Brand, Cart, CartItem, Category, Product } from "@prisma/client";
+import { IBrand, ICart, ICartItem, ICategory, IProduct } from "@/shared/types";
 
-export interface CartItemDTO extends CartItem {
-	productItem: Product & {
-		category: Category;
-		brand: Brand;
+export interface CartItemDTO extends ICartItem {
+	productItem: IProduct & {
+		category: ICategory;
+		brand: IBrand;
 	};
 }
 
-export interface CartDTO extends Cart {
+export interface CartDTO extends ICart {
 	items: CartItemDTO[];
 }

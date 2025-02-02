@@ -1,1 +1,2 @@
-export { authOptions } from "./auth-options";
+export { ROUTES } from "./routes";
+export { BASE_URL } from "./main";

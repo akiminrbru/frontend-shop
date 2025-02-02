@@ -19,21 +19,21 @@ async function deleteCartItem(url: string, { arg }: { arg: number }) {
 
 async function updateCartItemQuantity(
 	url: string,
-	{ arg }: { arg: { id: number; type: "minus" | "plus" } }
+	{ arg }: { arg: { id: number; quantity: number } }
 ) {
 	await fetch(url, {
 		method: "PATCH",
 		body: JSON.stringify({
 			id: arg.id,
-			type: arg.type,
+			quantity: arg.quantity,
 		}),
 	});
 }
 
 export const CartPage = () => {
-	const { data, error, isLoading } = useSWR<CartDTO>(`/api/cart/`, fetcher);
-	const { trigger: deteleCartItem } = useSWRMutation("/api/cart/", deleteCartItem);
-	const { trigger: updateQuantity } = useSWRMutation("/api/cart/", updateCartItemQuantity);
+	const { data, error, isLoading } = useSWR<CartDTO>(`/cart/`, fetcher);
+	const { trigger: deteleCartItem } = useSWRMutation("/cart/", deleteCartItem);
+	const { trigger: updateQuantity } = useSWRMutation("/cart/", updateCartItemQuantity);
 
 	if (isLoading) {
 		return <div>Загрузка...</div>;
@@ -43,7 +43,6 @@ export const CartPage = () => {
 		return <div>Произошла ошибка</div>;
 	}
 
-	console.log(data);
 	return (
 		<>
 			{data && data.items.length > 0 ? (
@@ -81,7 +80,10 @@ export const CartPage = () => {
 										type="button"
 										disabled={cartItem.quantity <= 1}
 										onClick={() =>
-											updateQuantity({ id: cartItem.id, type: "minus" })
+											updateQuantity({
+												id: cartItem.id,
+												quantity: cartItem.quantity - 1,
+											})
 										}>
 										<Minus className="w-5 h-5" />
 									</button>
@@ -89,7 +91,10 @@ export const CartPage = () => {
 									<button
 										type="button"
 										onClick={() =>
-											updateQuantity({ id: cartItem.id, type: "plus" })
+											updateQuantity({
+												id: cartItem.id,
+												quantity: cartItem.quantity + 1,
+											})
 										}>
 										<Plus className="w-5 h-5" />
 									</button>

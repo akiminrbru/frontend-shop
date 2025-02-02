@@ -9,6 +9,7 @@ const config: Config = {
 		"./widgets/**/*.{js,ts,jsx,tsx,mdx}",
 		"./entities/**/*.{js,ts,jsx,tsx,mdx}",
 		"./shared/**/*.{js,ts,jsx,tsx,mdx}",
+		"./features/**/*.{js,ts,jsx,tsx,mdx}",
 	],
 	theme: {
 		screens: {

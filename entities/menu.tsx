@@ -1,6 +1,5 @@
 "use client";
 import { fetcher } from "@/shared/services";
-import { Category } from "@prisma/client";
 import Link from "next/link";
 import React from "react";
 import useSWR from "swr";
@@ -12,9 +11,9 @@ import { useMenuStore } from "@/shared/store";
 export const Menu = () => {
 	const menuIsOpen = useMenuStore((state) => state.menuIsOpen);
 	const toggleMenu = useMenuStore((state) => state.toggleMenu);
-	const closeMenu = useMenuStore((state) => state.toggleMenu);
+	const closeMenu = useMenuStore((state) => state.closeMenu);
 
-	const { data, error, isLoading } = useSWR<Category[]>("/api/catalog", fetcher);
+	const { data, error, isLoading } = useSWR<ICategory[]>("/catalog/getCategories", fetcher);
 
 	if (isLoading) {
 		<div>Загрузка...</div>;

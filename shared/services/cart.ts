@@ -1,8 +1,10 @@
-import { BASE_URL } from "../constants/constants";
+import { BASE_URL } from "../constants/main";
 import { CartDTO } from "./dto/cart.dto";
 
 export const getCart = async (): Promise<CartDTO> => {
-	return await fetch(`${BASE_URL}/api/cart`, { method: "GET" }).then((r) => r.json());
+	return await fetch(`${process.env.NEXT_PUBLIC_API_URL}/cart`, { method: "GET" }).then((r) =>
+		r.json()
+	);
 };
 
 // export const updateItemQuantity = async (itemId: number, quantity: number): Promise<CartDTO> => {

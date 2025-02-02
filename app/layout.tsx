@@ -3,7 +3,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 import { Footer, Header } from "@/widgets";
 import NextTopLoader from "nextjs-toploader";
-import { Providers } from "@/featured";
+import { Providers } from "@/features";
 
 const MTSText = localFont({
 	src: [

@@ -12,7 +12,7 @@ export default function Page() {
 	const slug = pathname.split("/").at(-1);
 
 	const { data, error, isLoading } = useSWR<IProduct[]>(
-		`/api/products/byCategory?category=${slug}`,
+		`/catalog/getProductbyCategory?category=${slug}`,
 		fetcher
 	);
 
